@@ -23,6 +23,7 @@ RUN pip install --no-cache-dir --upgrade pip && \
         findspark \
         pandas \
         pyarrow \
+        openpyxl \
         matplotlib \
         seaborn
 
