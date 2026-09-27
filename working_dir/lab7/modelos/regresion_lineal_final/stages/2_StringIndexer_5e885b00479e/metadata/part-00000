@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1790451394784,"sparkVersion":"3.5.1","uid":"StringIndexer_5e885b00479e","paramMap":{"outputCol":"dominio_idx","handleInvalid":"keep","inputCol":"dominio"},"defaultParamMap":{"outputCol":"StringIndexer_5e885b00479e__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

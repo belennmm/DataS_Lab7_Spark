@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1790451401390,"sparkVersion":"3.5.1","uid":"OneHotEncoder_507f10fe9066","paramMap":{"outputCol":"categoria_ocupacional_ohe","handleInvalid":"keep","inputCol":"categoria_ocupacional_idx"},"defaultParamMap":{"outputCol":"OneHotEncoder_507f10fe9066__output","dropLast":true,"handleInvalid":"error"}}
